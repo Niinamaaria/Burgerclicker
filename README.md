@@ -1,6 +1,6 @@
 # Burgerclicker
 
-Burgerclicker- on yksinkertainen pelisovellus, jolla pelaaja ansaitsee kuponkeja klikkaamalla burgeri-kuvaketta. 
+Burgerclicker- on yksinkertainen pelisovellus, joka on kehitetty näyttötyönä opintoja varten, ja jolla pelaaja ansaitsee kuponkeja klikkaamalla burgeri-kuvaketta. 
 
 Burgerclicker- pelin löytää osoitteesta: https://burgerclicker-bcb1e.web.app/. 
 
@@ -9,7 +9,7 @@ on tarpeeksi kuhunkin kuponkiin nähden.
 
 # Burgerclicker
 
-Burgerclicker- is a simple game application where a player earns coupons by clicking on the burger icon.
+Burgerclicker- is a simple game application, developed as a final assignment for studies, where a player earns coupons by clicking on the burger icon.
 
 The Burgerclicker game can be found at: https://burgerclicker-bcb1e.web.app/.
 
